@@ -1,0 +1,17 @@
+.row-header{
+  
+    padding: 10px 0px 0px 0px;
+}
+.jumbotron{
+    background-color:rgb(157, 93, 218);
+}
+.row-content{
+    padding: 20px 0px 0px 0px;
+    margin :5px 0px 70px 0px;
+}
+.navbar-dark{
+    background-color: black;
+}
+.footer{
+    background-color: rgb(198, 172, 223)
+}
